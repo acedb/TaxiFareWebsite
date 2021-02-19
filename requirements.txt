@@ -22,3 +22,7 @@ google-cloud-storage
 termcolor
 uvicorn
 fastapi
+streamlit
+requests
+datetime
+pydeck
